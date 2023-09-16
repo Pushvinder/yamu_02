@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":wakelock" external.linked.project.path="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock-0.6.2/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="creativemaybeno.wakelock" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":wakelock" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="4.0.1" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.0.1" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/wakelock/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../../build/wakelock/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar;C:/Users/user/.gradle/caches/transforms-3/adee080b3f7857eb53b294f656b7a684/transformed/jetified-flutter_embedding_debug-1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar;C:/Users/user/.gradle/caches/transforms-3/278c291d79c76bbdac5dcdac62e93418/transformed/fragment-1.1.0-api.jar;C:/Users/user/.gradle/caches/transforms-3/9ed242250567c3a971c5edbc8901c00e/transformed/viewpager-1.0.0-api.jar;C:/Users/user/.gradle/caches/transforms-3/3ed0d78877f1fe3590463f61b0e7ca03/transformed/loader-1.0.0-api.jar;C:/Users/user/.gradle/caches/transforms-3/b0fdd5b7a7256fbf7bdd1ec2ddaec1a3/transformed/jetified-activity-1.0.0-api.jar;C:/Users/user/.gradle/caches/transforms-3/e7039c19737c38419370cdc8fd98e5ce/transformed/customview-1.0.0-api.jar;C:/Users/user/.gradle/caches/transforms-3/8ac021d40a8879737258b0311083be7d/transformed/core-1.6.0-api.jar;C:/Users/user/.gradle/caches/transforms-3/09966c95939d17ffd1434d18787d0288/transformed/lifecycle-runtime-2.2.0-api.jar;C:/Users/user/.gradle/caches/transforms-3/635c7cb5426439dec81a5664631fc463/transformed/jetified-savedstate-1.0.0-api.jar;C:/Users/user/.gradle/caches/transforms-3/709d1d92c2f5e9972a9eec788d2675d4/transformed/lifecycle-livedata-2.0.0-api.jar;C:/Users/user/.gradle/caches/transforms-3/61b2768c7f2db33355041f64f3a27859/transformed/lifecycle-livedata-core-2.0.0-api.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar;C:/Users/user/.gradle/caches/transforms-3/3b5f8027db7bc0330804a40c401ac950/transformed/core-runtime-2.0.0-api.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar;C:/Users/user/.gradle/caches/transforms-3/28f392d226e5fc9f2838557087b70ac1/transformed/versionedparcelable-1.1.1-api.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar;C:/Users/user/.gradle/caches/transforms-3/4d9e6292c0ee093344bd8966843573fe/transformed/lifecycle-viewmodel-2.1.0-api.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.2.0/57136ff68ee784c6e19db34ed4a175338fadfde1/annotation-1.2.0.jar;C:/Users/user/.gradle/caches/transforms-3/6de0414a491a93d81bf261df121bb68c/transformed/jetified-annotation-experimental-1.1.0-api.jar;C:/Users/user/.gradle/caches/transforms-3/6aa96b86bef889780c57f64b63aeee7e/transformed/jetified-tracing-1.0.0-api.jar;C:/Users/user/.gradle/caches/transforms-3/92c5c653610a6fa6c56b8f987ffbe8dc/transformed/jetified-window-java-1.0.0-beta04-api.jar;C:/Users/user/.gradle/caches/transforms-3/169e312b2bb2b1aa55c2eb4089f52175/transformed/jetified-window-1.0.0-beta04-api.jar;C:/Users/user/.gradle/caches/transforms-3/45adb77bae6e4297f3f4060e25545f06/transformed/jetified-kotlinx-coroutines-android-1.5.2.jar;C:/Users/user/.gradle/caches/transforms-3/a0780729a9215ccc82e216ab0205cdc7/transformed/jetified-kotlinx-coroutines-core-jvm-1.5.2.jar;C:/Users/user/.gradle/caches/transforms-3/fc7b1d5884df0fbcb54fc8c865b7dcf7/transformed/jetified-kotlin-stdlib-jdk8-1.5.30.jar;C:/Users/user/.gradle/caches/transforms-3/44ab672fe91729a757f235bcee7fc355/transformed/jetified-kotlin-stdlib-jdk7-1.6.10.jar;C:/Users/user/.gradle/caches/transforms-3/dd16d8bec81a6a8b10213f4bb9e3b32a/transformed/jetified-kotlin-stdlib-1.6.10.jar;C:/Users/user/.gradle/caches/transforms-3/87fdca3fc67ec516e37f153e4daba073/transformed/jetified-annotations-13.0.jar;C:/Users/user/.gradle/caches/transforms-3/9f88d952f6dd8749747fa3ab844d7623/transformed/jetified-kotlin-stdlib-common-1.6.10.jar;C:/Users/user/AppData/Local/Android/Sdk/platforms/android-31/android.jar;C:/Users/user/AppData/Local/Android/Sdk/build-tools/29.0.2/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="wakelock_debug" />
+          <option name="languageVersion" value="1.6" />
+          <option name="apiVersion" value="1.6" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock-0.6.2/android/src/main/res;file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock-0.6.2/android/src/debug/res;file://$MODULE_DIR$/../../../../build/wakelock/generated/res/rs/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock-0.6.2/android/src/androidTest/res;file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock-0.6.2/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../build/wakelock/generated/res/rs/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../build/wakelock/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/wakelock/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock-0.6.2/android">
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock-0.6.2/android/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock-0.6.2/android/src/main/kotlin" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock-0.6.2/android/.gradle" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/wakelock/generated/aidl_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/wakelock/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/wakelock/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/wakelock/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/wakelock/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/wakelock/generated/ap_generated_sources/debugUnitTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/wakelock/generated/renderscript_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/wakelock/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/wakelock/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/wakelock/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/wakelock/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/wakelock/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/wakelock/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 31 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.30" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.10" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.6.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation-experimental:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.tracing:tracing:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.window:window-java:1.0.0-beta04@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.window:window:1.0.0-beta04@aar" level="project" />
+  </component>
+</module>

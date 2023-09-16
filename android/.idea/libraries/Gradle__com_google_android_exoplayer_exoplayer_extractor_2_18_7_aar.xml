@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer-extractor:2.18.7@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/33f8ab3fa0affee81d789ed0e0fe3b48/transformed/jetified-exoplayer-extractor-2.18.7/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c3a080cc298d64a705945d596eeb25e1/transformed/jetified-exoplayer-extractor-2.18.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/df9be8937e1931868ddb34b1704eea82/transformed/jetified-exoplayer-extractor-2.18.7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/33f8ab3fa0affee81d789ed0e0fe3b48/transformed/jetified-exoplayer-extractor-2.18.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/33f8ab3fa0affee81d789ed0e0fe3b48/transformed/jetified-exoplayer-extractor-2.18.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/33f8ab3fa0affee81d789ed0e0fe3b48/transformed/jetified-exoplayer-extractor-2.18.7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-extractor/2.18.7/f966e4d9da8264f7b4c8c452379692f62ad556fb/exoplayer-extractor-2.18.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
